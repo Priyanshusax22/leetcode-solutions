@@ -23,4 +23,24 @@ leetcode-solutions in dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
