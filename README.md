@@ -1,2 +1,26 @@
 # leetcode-solutions
 leetcode-solutions in dsa 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+<!---LeetCode Topics End-->
