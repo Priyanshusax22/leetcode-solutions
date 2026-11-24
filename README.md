@@ -27,10 +27,12 @@ leetcode-solutions in dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +45,16 @@ leetcode-solutions in dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
