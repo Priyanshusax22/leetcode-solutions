@@ -28,6 +28,7 @@ leetcode-solutions in dsa
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +58,24 @@ leetcode-solutions in dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
