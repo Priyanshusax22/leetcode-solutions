@@ -33,6 +33,7 @@ leetcode-solutions in dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+| [3360-stone-removal-game](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -78,4 +79,8 @@ leetcode-solutions in dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3360-stone-removal-game](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3360-stone-removal-game/) | Easy |
 <!---LeetCode Topics End-->
