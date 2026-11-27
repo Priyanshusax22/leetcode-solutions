@@ -7,6 +7,7 @@ leetcode-solutions in dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ leetcode-solutions in dsa
 | [1352-product-of-the-last-k-numbers](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3934-smallest-unique-subarray](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,4 +85,8 @@ leetcode-solutions in dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3360-stone-removal-game](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3360-stone-removal-game/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 <!---LeetCode Topics End-->
