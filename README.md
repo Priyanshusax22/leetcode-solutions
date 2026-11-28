@@ -31,6 +31,7 @@ leetcode-solutions in dsa
 | [3411-maximum-subarray-with-equal-products](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3934-smallest-unique-subarray](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,4 +90,13 @@ leetcode-solutions in dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Priyanshusax22/leetcode-solutions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 <!---LeetCode Topics End-->
